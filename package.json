@@ -7,6 +7,10 @@
     "build": "tsc"
   },
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ipcian/lge-elements2.git"
+  },
   "dependencies": {
 
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
