@@ -1,0 +1,47 @@
+{
+  "name": "lge-elements",
+  "version": "1.0.0",
+  "description": "this is for lge-elements...",
+  "main": "elements/index.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "private": true,
+  "dependencies": {
+
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@stoplight/http-spec": "^7.1.0",
+    "@stoplight/json-schema-ref-parser": "^10.0.0",
+    "@stoplight/json-schema-sampler": "^0.3.0",
+    "@stoplight/json-schema-tree": "^4.0.0",
+    "@stoplight/json-schema-viewer": "^4.16.1",
+    "@stoplight/markdown-viewer": "^5.7.0",
+    "@stoplight/mosaic": "^1.53.2",
+    "@stoplight/mosaic-code-editor": "^1.53.2",
+    "@stoplight/mosaic-code-viewer": "^1.53.2",
+    "@stoplight/react-error-boundary": "^3.0.0",
+    "@stoplight/types": "^14.1.1",
+    "@types/file-saver": "^2.0.7",
+    "@types/lodash": "^4.17.5",
+    "@types/react-router-hash-link": "^2.4.9",
+    "@types/urijs": "^1.19.25",
+    "file-saver": "^2.0.5",
+    "history": "^5.3.0",
+    "httpsnippet-lite": "^3.0.5",
+    "lodash": "^4.17.21",
+    "react-query": "^3.39.3",
+    "react-router": "^6.23.1",
+    "react-router-dom": "^6.23.1",
+    "react-router-hash-link": "^2.4.3",
+    "typescript": "^5.4.5",
+    "urijs": "^1.19.11",
+    "xml-formatter": "^3.6.2",
+    "buffer": "^6.0.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "util": "^0.12.5"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.6"
+  }
+}
